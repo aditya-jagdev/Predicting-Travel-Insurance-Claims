@@ -7,6 +7,8 @@ from matplotlib import pyplot as plt
 from matplotlib import ticker
 from sklearn.decomposition import PCA
 from sklearn.preprocessing import scale
+from sklearn.metrics import auc
+from sklearn.metrics import roc_curve
 from sklearn.model_selection import learning_curve
 
 
