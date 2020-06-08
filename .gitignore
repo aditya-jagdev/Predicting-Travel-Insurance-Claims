@@ -1,3 +1,5 @@
 *.pickle
 *.csv
 *.pickle
+_old/*
+redacted/*
