@@ -3,3 +3,5 @@
 *.pickle
 _old/*
 redacted/*
+__pycache__/*
+.ipynb_checkpoints/*
